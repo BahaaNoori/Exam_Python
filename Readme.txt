@@ -1,4 +1,4 @@
-# Python script for substring analysis of Genomic Data: DSP39_Final Exam
+# Python script for substring analysis of Genomic Data: DSP39_Python Exam
 Analyzing the number of substrings in a longer string of genomic data is a vital step in genomic analysis. When an experiment is run, the output is genomic data. This genomic data is made up of “T”, “C”, “G”, and “A”, thus the string is made up of 4 letters. Most of this data is huge and it can’t be analyzed by humans. So we need a machine to do it for us. For this purpose, we can use Python to create functions that can run through our data and output the files that will be readable to humans. In this repository will be a testing file and a script to test the string of genomic data and output files that will provide some information about that string. 
 
 # Testing the python script 
